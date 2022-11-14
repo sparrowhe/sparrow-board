@@ -1,0 +1,26 @@
+.b-body {
+    width: 1920px;
+    height: 1080px;
+}
+.b-container {
+    padding: 15px;
+}
+.b-header {
+    /* 内容同行显示 */
+    display: flex;
+    /* 内容垂直居中 */
+    align-items: center;
+}
+.b-title {
+    margin-left: 10px;
+}
+.b-content {
+    margin-top: 20px;
+}
+.mdui-row {
+    margin-top: 10px;
+}
+.b-school-logo {
+    width: 100px;
+    height: 100px;
+}

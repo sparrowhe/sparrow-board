@@ -1,0 +1,46 @@
+{
+    "startDay": "2022-09-01",
+    "noonRestTimeStart": "11:50",
+    "noonRestTimeEnd": "14:10",
+    "afternoonRestTimeStart": "17:50",
+    "afternoonRestTimeEnd": "18:40",
+    "courses": [
+        [
+            [
+                {
+                    "class": "语文-晨读",
+                    "startTime": "07:10",
+                    "endTime": "07:50",
+                    "teacher": "辛薇"
+                },
+                {
+                    "class": "语文",
+                    "startTime": "08:00",
+                    "endTime": "08:45",
+                    "teacher": "辛薇"
+                },
+                {
+                    "class": "化学",
+                    "startTime": "08:55",
+                    "endTime": "09:40",
+                    "teacher": "孔令玉"
+                },
+                {
+                    "class": "数学",
+                    "startTime": "10:10",
+                    "endTime": "10:55",
+                    "teacher": "王明月"
+                },
+                {
+                    "class": "英语",
+                    "startTime": "11:05",
+                    "endTime": "11:50",
+                    "teacher": "风扇"
+                }
+            ],
+            [
+
+            ]
+        ]
+    ]
+}

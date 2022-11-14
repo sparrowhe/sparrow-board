@@ -1,0 +1,20 @@
+{
+    "schoolName": "咕咕咕学校",
+    "className": "1926级0817班",
+    "contents": [
+        [
+            {
+                "class": "mdui-col-xs-3",
+                "component": "className",
+                "id": 1
+            }
+        ],
+        [
+            {
+                "class": "mdui-col-xs-3",
+                "component": "courseBoard",
+                "id": 2
+            }
+        ]
+    ]
+}
